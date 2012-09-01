@@ -13,5 +13,3 @@ If you are an educator and wish to use this material in your own teaching practi
 I ask that you contact me and let me know where and how you use it and give me feedback. If you have improvements
 to offer, patches are welcome.
 
-Cheers,
-Tom Clark
